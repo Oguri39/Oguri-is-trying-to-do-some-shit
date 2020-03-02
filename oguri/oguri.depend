@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1583119912 source:d:\workplace\c++ workplace\oguri\oguri.cpp
+	"Oguri.h"
+	<iostream>
+
+1583121685 d:\workplace\c++ workplace\oguri\oguri.h
+
+1583121746 source:d:\workplace\c++ workplace\oguri\main.cpp
+	<iostream>
+	"Oguri.h"
+	<cmath>
+
